@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Emanuel Sandez, egresado de ingeniería Civil Industrial, con 5 años de experiencia en la gestión de proyectos. Comprometido en la mejora de los procesos y la consecución de resultados y objetivos de la organización. Persona que, además, busca aumentar sus conocimientos en el desarrollo de aplicaciones móviles y tecnología.
+:neckbeard: Soy Emanuel Sandez, egresado de ingeniería Civil Industrial, con 5 años de experiencia en la gestión de proyectos. Comprometido en la mejora de los procesos y la consecución de resultados y objetivos de la organización. Persona que, además, busca aumentar sus conocimientos en el desarrollo de aplicaciones móviles y tecnología.
 
 💻 Me dedico principalmente a realizar las gestiones que implican llevar a cabo los proyectos informáticos propuestos, mediante la utilización de diferentes herramientas informáticas, tanto de gestión como de modelamiento de procesos. También, tengo diferentes conocimientos de lenguajes de programación y de desarrollo de aplicaciones móviles Android.
 
